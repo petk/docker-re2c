@@ -1,0 +1,7 @@
+command:
+  re2c -v:
+    exit-status: 0
+    stdout:
+    - 're2c 1.0.3'
+    stderr: []
+    timeout: 10000
